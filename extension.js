@@ -10,6 +10,7 @@ const vscode = require('vscode');
  */
 function activate(context) {
 
+	/*
 	// Use the console to output diagnostic information (console.log) and errors (console.error)
 	// This line of code will only be executed once when your extension is activated
 	console.log('Congratulations, your extension "reminder-pop-up" is now active!');
@@ -25,6 +26,9 @@ function activate(context) {
 	});
 
 	context.subscriptions.push(disposable);
+	*/
+
+	showReminders();
 }
 
 // This method is called when your extension is deactivated
@@ -33,4 +37,10 @@ function deactivate() {}
 module.exports = {
 	activate,
 	deactivate
+}
+
+function showReminders() {
+	const reminders = "REMEMBER TO PULL if working on remote repository.";
+
+	vscode.window.showInformationMessage(reminders);
 }
