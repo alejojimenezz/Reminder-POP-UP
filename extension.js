@@ -28,7 +28,12 @@ function activate(context) {
 	context.subscriptions.push(disposable);
 	*/
 
-	showReminders();
+	const workspaceFolders = vscode.workspace.workspaceFolders;
+
+	if (workspaceFolders && workspaceFolders.length > 0) {
+		showReminders();
+	}
+
 }
 
 // This method is called when your extension is deactivated
