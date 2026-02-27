@@ -1,9 +1,39 @@
-# Change Log
+# Changelog
 
-All notable changes to the "reminder-pop-up" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-- Initial release
+### Added
+
+- v1.0 Spanish translation
+
+### Changed
+
+- 
+
+### Removed
+
+- 
+
+## [1.0.0] - 2026-02-27
+
+### Added
+
+- 
+
+### Fixed
+
+- 
+
+### Changed
+
+- 
+
+### Removed
+
+- 
+
+
+
+<!-- [unreleased]:  -->
