@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- v1.0 Spanish translation
+- 
 
 ### Changed
 
@@ -20,9 +20,9 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- 
+- Base project structure for Reminder POP-UP Visual Studio Code Extension.
 
-### Fixed
+<!-- ### Fixed
 
 - 
 
@@ -32,7 +32,7 @@ All notable changes to this project will be documented in this file.
 
 ### Removed
 
-- 
+-  -->
 
 
 
