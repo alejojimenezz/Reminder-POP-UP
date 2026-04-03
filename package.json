@@ -3,6 +3,14 @@
   "displayName": "Reminder POP-UP",
   "description": "Startup notifications",
   "version": "0.0.1",
+  "publisher": "alejo-jimenez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejojimenezz/Reminder-POP-UP"
+  },
+  "keywords": ["reminders", "productivity", "recordatorios", "productividad"],
+  "icon": "RPUicon.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.108.1"
   },
