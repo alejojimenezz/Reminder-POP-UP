@@ -47,5 +47,13 @@ module.exports = {
 function showReminders() {
 	const reminders = "REMEMBER TO PULL if working on remote repository.";
 
-	vscode.window.showInformationMessage(reminders);
+	vscode.window.showInformationMessage(
+		reminders,
+		{modal: false},
+		"Got it"
+	).then(selection => {
+		if(selection === "Got it"){
+			// empty conditional for now
+		}
+	});
 }
