@@ -6,15 +6,15 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- 
+- Confirmation button for the reminders
 
-### Changed
+<!-- ### Changed
 
 - 
 
 ### Removed
 
-- 
+-  -->
 
 ## [1.0.0] - 2026-02-27
 
