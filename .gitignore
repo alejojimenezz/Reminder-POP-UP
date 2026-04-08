@@ -3,4 +3,4 @@ node_modules
 *.vsix
 .env
 vsc-extension-quickstart.md
-TO-DO.md
+TO-DO.*
