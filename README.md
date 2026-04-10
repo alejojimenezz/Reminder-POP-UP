@@ -1,6 +1,6 @@
 # Reminder POP-UP README
 
-This is a simple extension, to display notifications when starting a working session on any project folder in Visual Studio Code, to setup general reminders.
+This is a simple extension, to display notifications when starting a working session on any project folder in Visual Studio Code, to setup general reminders. I kept forgetting to pull before starting to work; and had to deal with unnecessary merge conflicts.
 
 ## Features
 
@@ -26,6 +26,10 @@ This extension contributes the following settings:
 Calling out known issues can help limit users opening duplicate issues against your extension. -->
 
 ## Release Notes
+
+### 1.0.1
+
+Include button for notification reading confirmation.
 
 ### 1.0.0
 

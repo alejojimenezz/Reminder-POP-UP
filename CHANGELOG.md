@@ -4,17 +4,23 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-### Added
+<!-- ### Added
 
-- Confirmation button for the reminders
+- 
 
-<!-- ### Changed
+### Changed
 
 - 
 
 ### Removed
 
 -  -->
+
+## [1.0.1] - 2026-04-10
+
+### Added
+
+- Confirmation button to "manually" close notifications.
 
 ## [1.0.0] - 2026-02-27
 
