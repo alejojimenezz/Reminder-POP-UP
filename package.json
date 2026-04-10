@@ -2,13 +2,18 @@
   "name": "reminder-pop-up",
   "displayName": "Reminder POP-UP",
   "description": "Startup notifications",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "rpu-alejandrojz",
   "repository": {
     "type": "git",
     "url": "https://github.com/alejojimenezz/Reminder-POP-UP"
   },
-  "keywords": ["reminders", "productivity", "recordatorios", "productividad"],
+  "keywords": [
+    "reminders",
+    "productivity",
+    "recordatorios",
+    "productividad"
+  ],
   "icon": "RPUicon.png",
   "license": "MIT",
   "engines": {
@@ -21,7 +26,6 @@
     "onStartupFinished"
   ],
   "main": "./extension.js",
-  
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
