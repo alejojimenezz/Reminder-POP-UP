@@ -2,6 +2,8 @@
 
 This is a simple extension, to display notifications when starting a working session on any project folder in Visual Studio Code, to setup general reminders. I kept forgetting to pull before starting to work; and had to deal with unnecessary merge conflicts.
 
+![Extension GIF](/assets/RPU100.gif)
+
 ## Features
 
 Display reminders as a custom Visual Studio Code pop-up notification; by default reminding to pull from remote if working session is in a remote repository.
